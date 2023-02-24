@@ -1,0 +1,10 @@
+body{
+    background-image: url(./images/background\ city.gif);
+}
+
+.border {
+   
+    background-color: white;
+    opacity: .8;
+    padding: 25px;
+}
