@@ -6,7 +6,7 @@ body {
     /*background: url(./images/gradient-bg.gif);
     background-color: black;
     background-size: cover;*/
-    cursor: url(./images/cursor.png) 6.5 6.5, auto;
+    cursor: url(./images/cursor.png) 12 12, auto;
     margin: 0%;
     /*padding: 25px;*/
 }
@@ -89,7 +89,7 @@ a {
     /*opacity: 0.5;*/
 }
 a :hover {
-    cursor: url(./images/cursor\ hover.png) 6.5 6.5, pointer;
+    cursor: url(./images/cursor\ hover.png) 12 12, pointer;
 }
 
   
